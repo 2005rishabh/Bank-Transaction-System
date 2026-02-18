@@ -7,7 +7,8 @@ connectDB();
 
 app.listen(3000, () => {
     console.log("Server is running on port 3000");
+    console.log("https://localhost:3000");
 });
 
 
-// 4FVhDBpyLYVAS0BQH
+// cEuYWeE2qKXJpkJi
